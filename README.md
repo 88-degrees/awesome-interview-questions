@@ -1,13 +1,5 @@
 ### Interview Questions
 
-> A curated list of lists of technical interview questions.
-
-[What makes for an awesome list?](awesome.md)
-
-Please read the [contribution guidelines](contributing.md) or [creating a list guide](create-list.md) if you want to contribute.
-
-### Table of Contents
-
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
   - [Android](#android)
   - [AngularJS](#angularjs)
