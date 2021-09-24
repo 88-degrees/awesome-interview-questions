@@ -1,78 +1,4 @@
-### Interview Questions
-
-- [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
-  - [Android](#android)
-  - [AngularJS](#angularjs)
-  - [Angular](#angular)
-  - [BackboneJS](#backbonejs)
-  - [C++](#c)
-  - [C](#c-1)
-  - [C♯](#c-2)
-  - [.NET](#net)
-  - [Clojure](#clojure)
-  - [CSS](#css)
-  - [Cucumber](#cucumber)
-  - [Django](#django)
-  - [Docker](#docker)
-  - [EmberJS](#emberjs)
-  - [Erlang](#erlang)
-  - [Golang](#golang)
-  - [GraphQl](#graphql)
-  - [HTML](#html)
-  - [Ionic](#ionic)
-  - [iOS](#ios)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [jQuery](#jquery)
-  - [Front-end build tools](#front-end-build-tools)
-  - [KnockoutJS](#knockoutjs)
-  - [Less](#less)
-  - [Lisp](#lisp)
-  - [NodeJS](#nodejs)
-  - [Objective-C](#objective-c)
-  - [PHP](#php)
-  - [Python](#python)
-  - [ReactJS](#reactjs)
-  - [Rails](#ruby-on-rails)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Sass](#sass)
-  - [Scala](#scala)
-  - [Shell](#shell)
-  - [Spark](#spark)
-  - [Swift](#swift)
-  - [Vue.js](#vuejs)
-  - [Wordpress](#wordpress)
-  - [TypeScript](#typescript)
-
-- [Database technologies](#database-technologies)
-  - [Cassandra](#cassandra)
-  - [Microsoft Access](#microsoft-access)
-  - [MongoDB](#mongodb)
-  - [MySQL](#mysql)
-  - [Neo4j](#neo4j)
-  - [Oracle](#oracle)
-  - [Postgres](#postgres)
-  - [SQL](#sql)
-  - [SQL Lite](#sql-lite)
-- [Caching technologies](#caching-technologies)
-  - [Memcached](#memcached)
-  - [Redis](#redis)
-
-- [OS](#os)
-  - [Linux](#linux)
-  - [Windows](#windows)
-- [Algorithms](#algorithms)
-- [Blockchain](#blockchain)
-- [Coding exercises](#coding-exercises)
-- [Comprehensive lists](#comprehensive-lists)
-- [Design patterns](#design-patterns)
-- [Data structures](#data-structures)
-- [Networks](#networks)
-- [Security](#security)
-- [Data Science](#data-science)
-
-## Programming Languages/Frameworks/Platforms
+## Interview Questions
 
 ### Android
 
@@ -309,7 +235,6 @@
 * [Top 50 jquery interview questions](https://career.guru99.com/top-50-jquery-interview-questions/)
 * [17 Essential jQuery Interview Questions From Toptal](https://www.toptal.com/jquery/interview-questions)
 
-
 ### Front-end build tools
 
 * [Webpack interview questions & answers](https://github.com/styopdev/webpack-interview-questions)
@@ -418,7 +343,6 @@
 * [rust-exam: A set of questions about the Rust programming language](https://github.com/jean553/rust-exam)
 * [Best Rust Programming Language Interview Questions and answers](https://www.bestinterviewquestion.com/rust-programming-language-interview-questions)
 
-
 ### Sass
 
 * [Top 17 Sass Interview Questions from Career Guru](http://career.guru99.com/top-17-sass-interview-questions/)
@@ -468,7 +392,6 @@
 * [Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019](https://www.positronx.io/typescript-interview-questions-answers-2109/)
 
 ## Database technologies
-
 
 ### Cassandra
 
@@ -565,6 +488,7 @@
 * [DevOps Interview Questions &amp; Answers](https://www.interviewbit.com/devops-interview-questions/)
 
 ## Algorithms
+
 * [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
 * [A great list of Java interview questions](http://java2novice.com/java-interview-programs/)
 * [Algorithms playground for common interview questions written in Ruby](https://github.com/sagivo/algorithms)
@@ -575,6 +499,7 @@
 * [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
 ## Blockchain
+
 * [Top 55 Blockchain Interview Questions You Must Prepare In 2018](https://www.edureka.co/blog/interview-questions/blockchain-interview-questions/)
 * [Blockchain Interview Questions](https://mindmajix.com/blockchain-interview-questions)
 * [Top Blockchain Interview Questions](https://intellipaat.com/interview-question/blockchain-interview-questions/)
@@ -598,6 +523,7 @@
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
 
 ## Design Patterns
+
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
@@ -624,6 +550,7 @@
 * [Security Interview Questions (and Answers) from Matthew Adeline](https://mkadeline.github.io/security/Security-Interview-Questions-Answers)
 
 ## Data Science
+
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 * [Top 45 Data Science Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
@@ -631,6 +558,79 @@
 * [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 * [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
+
+### Programming Languages/Frameworks/Platforms
+
+  - [Android](#android)
+  - [AngularJS](#angularjs)
+  - [Angular](#angular)
+  - [BackboneJS](#backbonejs)
+  - [C++](#c)
+  - [C](#c-1)
+  - [C♯](#c-2)
+  - [.NET](#net)
+  - [Clojure](#clojure)
+  - [CSS](#css)
+  - [Cucumber](#cucumber)
+  - [Django](#django)
+  - [Docker](#docker)
+  - [EmberJS](#emberjs)
+  - [Erlang](#erlang)
+  - [Golang](#golang)
+  - [GraphQl](#graphql)
+  - [HTML](#html)
+  - [Ionic](#ionic)
+  - [iOS](#ios)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [jQuery](#jquery)
+  - [Front-end build tools](#front-end-build-tools)
+  - [KnockoutJS](#knockoutjs)
+  - [Less](#less)
+  - [Lisp](#lisp)
+  - [NodeJS](#nodejs)
+  - [Objective-C](#objective-c)
+  - [PHP](#php)
+  - [Python](#python)
+  - [ReactJS](#reactjs)
+  - [Rails](#ruby-on-rails)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Sass](#sass)
+  - [Scala](#scala)
+  - [Shell](#shell)
+  - [Spark](#spark)
+  - [Swift](#swift)
+  - [Vue.js](#vuejs)
+  - [Wordpress](#wordpress)
+  - [TypeScript](#typescript)
+
+- [Database technologies](#database-technologies)
+  - [Cassandra](#cassandra)
+  - [Microsoft Access](#microsoft-access)
+  - [MongoDB](#mongodb)
+  - [MySQL](#mysql)
+  - [Neo4j](#neo4j)
+  - [Oracle](#oracle)
+  - [Postgres](#postgres)
+  - [SQL](#sql)
+  - [SQL Lite](#sql-lite)
+- [Caching technologies](#caching-technologies)
+  - [Memcached](#memcached)
+  - [Redis](#redis)
+
+- [OS](#os)
+  - [Linux](#linux)
+  - [Windows](#windows)
+- [Algorithms](#algorithms)
+- [Blockchain](#blockchain)
+- [Coding exercises](#coding-exercises)
+- [Comprehensive lists](#comprehensive-lists)
+- [Design patterns](#design-patterns)
+- [Data structures](#data-structures)
+- [Networks](#networks)
+- [Security](#security)
+- [Data Science](#data-science)
 
 ### License
 
